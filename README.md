@@ -1,6 +1,6 @@
-# lvsocket
+# Flutter Websocket connected with backend
 
-A new Flutter project.
+A flutter socket connect with laravel's web socket or any other like django, socket.io.
 
 ## Getting Started
 
